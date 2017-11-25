@@ -10,7 +10,7 @@ locale                   : "en"
 title                    : "Cak Met"
 title_separator          : "-"
 name                     : "Cak Met"
-description              : "An amazing website."
+description              : "Blog about Ruby, Rails, Vim, CLI, Elixir, and Life in Japan"
 url                      : "https://drselump14.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "drselump14/drselump14.github.io"
@@ -55,7 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : dr_selump14
 facebook:
   username               :
   app_id                 :
@@ -101,7 +101,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
-  twitter          : drselump14
+  twitter          : dr_selump14
   vine             :
   weibo            :
   xing             :
@@ -186,6 +186,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - octopress-debugger
+  - jekyll-seo-tag
 
 # mimic GitHub Pages with --safe
 whitelist:
