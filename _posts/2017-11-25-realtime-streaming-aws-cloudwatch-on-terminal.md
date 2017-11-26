@@ -1,6 +1,9 @@
 ---
 comments: true
 title: Realtime streaming aws cloudwatch on terminal
+header:
+  image: assets/images/awslogs.png
+  og_image: assets/images/awslogs.png
 categories:
   - CLI
 tags:
