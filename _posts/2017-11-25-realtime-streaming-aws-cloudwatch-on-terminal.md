@@ -29,3 +29,4 @@ Example
 
 `awslogs get /aws/lambda/aws-lambda-image  ALL --watch`
 
+![awslogs in action]({{"assets/images/awslogs.png" | absolute_url}})
