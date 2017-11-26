@@ -1,5 +1,9 @@
 ---
 comments: true
+tags:
+  - japan
+  - life
+  - tips & trick
 ---
 
 Akhir-akhir ini karena berbagai macam hal, ane harus mondar mandir ke Nagoya pake shinkansen.

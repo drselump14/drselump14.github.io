@@ -1,5 +1,8 @@
 ---
 comments: true
+tags:
+  - jekyll
+  - cli
 ---
 Jekyll is awesome, isn't it? But I noticed one annoyance when creating a new post.
 Basically, in Jekyll we have to name file with format *YYYY-MM-DD-tittle-blah-blah.md* when creating a new post.

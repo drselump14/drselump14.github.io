@@ -1,6 +1,12 @@
 ---
 comments: true
 title: Realtime streaming aws cloudwatch on terminal
+categories:
+  - CLI
+tags:
+  - aws
+  - cli
+  - cloudwatch
 ---
 
 Sometime when we deploy our app on ElasticBeanstalk or testing our lambda function, we want to check the log for debugging.
